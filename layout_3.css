@@ -1,0 +1,23 @@
+.jumbotron{
+border: 1px solid #bac2d1;
+}
+.blog{.
+padding: 2px;
+}
+
+ @media screen and (min-width: 500px) {
+   #mainblog {
+
+   	width:380px;
+    margin: auto; 
+      
+    }
+    .container{margin-left: 7%;
+    	margin-right: 7%;}
+}
+
+ @media screen and (min-width: 600px) {
+   
+    .container{
+    	margin-right: 7%;}
+}
